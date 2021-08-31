@@ -1,0 +1,32 @@
+[
+    {
+        "id": 3,
+        "name": "harry potter",
+        "description": "adventure",
+        "isbn": "3-2-2",
+        "page_count": 50,
+        "issued": true,
+        "author": "jk rowling",
+        "year": 19
+    },
+    {
+        "id": 1,
+        "name": "bharath",
+        "description": "hero",
+        "isbn": "401",
+        "page_count": 10,
+        "issued": false,
+        "author": "me",
+        "year": 21
+    },
+    {
+        "id": 4,
+        "name": "kbk",
+        "description": "bh",
+        "isbn": "766",
+        "page_count": 1,
+        "issued": true,
+        "author": "hu",
+        "year": 12
+    }
+]

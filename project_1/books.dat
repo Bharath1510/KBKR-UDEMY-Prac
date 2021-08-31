@@ -1,0 +1,22 @@
+[
+    {
+        "id": "2",
+        "name": "2",
+        "description": "2",
+        "isbn": "2",
+        "page_count": 2,
+        "issued": false,
+        "author": "2",
+        "year": 2
+    },
+    {
+        "id": "3",
+        "name": "3",
+        "description": "3",
+        "isbn": "3",
+        "page_count": 3,
+        "issued": false,
+        "author": "3",
+        "year": 3
+    }
+]
